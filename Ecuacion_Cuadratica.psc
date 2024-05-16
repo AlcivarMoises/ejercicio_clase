@@ -1,0 +1,5 @@
+Algoritmo  Numero
+	
+	
+	
+FinAlgoritmo
